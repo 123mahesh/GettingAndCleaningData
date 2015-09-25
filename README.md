@@ -14,7 +14,7 @@ You should create one R script called run_analysis.R that does the following.
 ## Steps to work on this course project
 
 1. Put ```run-analysis.R``` in the working directory.
-2. Run ```source("run_analysis.R")```, then it will generate a new file ```tiny_data.txt``` in your working directory.
+2. Run ```source("run_analysis.R")```, then it will generate a new file ```Tidy.txt``` in your working directory.
 
 ## Dependencies
 1. Before running ```run_analysis.R```, install two packages ``data.table`` and ``dplyr``.
